@@ -1,6 +1,6 @@
 var canvas, backgroundImage;
 var kyoga1;
-var gameState = 1;
+var gameState = 0;
 var playerCount;
 var kids,adults,elders,b1,b2,b3,slogan;
 var database;
